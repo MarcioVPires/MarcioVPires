@@ -1,8 +1,8 @@
-### Hi there! I'm Marcio 👽
+## Hi there! I'm Marcio 👽
 
 I'm a Front Developer with a Graphic Design Background and a passion for problem solving. I love to give life to ideas. It's very exciting to plan, research, code, test and improve solutions. 
 
-## Skills 📖
+### **Skills** 📖
 
 I have experience with the following technologies:
 
@@ -21,7 +21,7 @@ This are the next technologies I will study:
 
 > #### If you want to know more, take a look at **my portfolio** -> https://marciopires.dev/
 
-## Do you want to get in contact ? ☎️
+### **Do you want to get in contact ?** ☎️
 
 C'mon don't be shy... You can talk about anything, like how crazy your cat is or make me an offer I can't refuse 🕵️‍♂️ <br>
 ⮞ Either way you can reach me at:
